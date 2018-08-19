@@ -1,1 +1,2 @@
 # Logistic-regression
+This mini-project is a basic machine learning practice using logistic regression techniques from scikit-learn for a classification problem. It consists of  solid theoretical explanation of the logistic regression, model tuning and probability.  It also includes exploratory analysis and machine learning process, such as train-test-split, hyper-parameter tuning and model varification (scoring using test set of data).
